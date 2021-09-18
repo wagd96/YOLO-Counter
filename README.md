@@ -8,7 +8,7 @@ Este proyecto tiene como objetivo contar cada vehículo (motocicleta, autobús, 
 
 ## Algoritmo en acción 
 <p align="center">
-  <img src="https://github.com/guptavasu1213/Yolo-Vehicle-Counter/blob/master/example_gif/highwayVideoExample.gif">
+  <img src="https://github.com/wagd96/YOLO-Counter/blob/master/example_gif/PDI.gif">
 </p>
 Como se puede apreciar, los vehículos son detectados y clasificados, se encierran en un recuadro y se cuentan al pasar por la región establecida.
 
