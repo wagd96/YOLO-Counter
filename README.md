@@ -1,7 +1,7 @@
 # CONTEO DE VEHÍCULOS CON YOLO
 
 ## Resumen
-You Only Look Once (YOLO) es una arquitectura de CNN para realizar la detección de objetos en tiempo real. El algoritmo aplica una sola red neuronal a la imagen completa y luego divide la imagen en regiones y predice cuadros delimitadores y probabilidades para cada región. Para ver información [ver](URL_DEL_PDF).
+You Only Look Once (YOLO) es una arquitectura de CNN para realizar la detección de objetos en tiempo real. El algoritmo aplica una sola red neuronal a la imagen completa y luego divide la imagen en regiones y predice cuadros delimitadores y probabilidades para cada región. Para ver información [ver](https://github.com/wagd96/YOLO-Counter/blob/master/Presentaci%C3%B3nYolo.pdf).
 
 Este proyecto tiene como objetivo contar cada vehículo (motocicleta, autobús, automóvil, ciclo, camión, tren) detectado en el video de entrada utilizando el algoritmo de detección de objetos YOLOv3.
 
@@ -71,5 +71,5 @@ python3 yolo_video.py --input input/videoPrueba.mp4  --output output/salidaPrueb
 
 
 ## Referencias
-* [Presentación YOLO curso Procesamiento Digital de Imágenes (PDI)](URL_DEL_PDF)
+* [Presentación YOLO curso Procesamiento Digital de Imágenes (PDI)](https://github.com/wagd96/YOLO-Counter/blob/master/Presentaci%C3%B3nYolo.pdf)
 * [YOLO object detection with OpenCV](https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/)
